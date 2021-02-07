@@ -2,7 +2,7 @@
 Reads loan EMI calendar, calculates amount for the day and sends an SMS using Twilio
 
 # Steps for venv
-##Create:
+## Create:
 virtualenv loan-notification
 
 ## Activate:
